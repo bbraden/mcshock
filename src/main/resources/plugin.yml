@@ -1,0 +1,5 @@
+name: Braden
+version: '${project.version}'
+main: me.braden.Main
+api-version: 1.19
+description: shock
