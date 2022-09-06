@@ -6,6 +6,7 @@ Minecraft, But I Get SHOCKED Whenever I Take Damage⚡
 **NOT FINISHED YET**
 
 This code allows you to get shocked whenever you take damage in minecraft.
+- 1.19.2 tested
 
 
 ## Tech
